@@ -58,7 +58,7 @@
             <div class="row align-items-center">
 
                 <div class="col-md-6 image">
-                    <img src="images/about-img.jpg" class="w-100 mb-5 mb-md-0" alt="">
+                    <img src="images/stolica.jpg" class="w-100 mb-5 mb-md-0" alt="">
                 </div>
 
                 <div class="col-md-6 content">

@@ -112,6 +112,8 @@ section {
     display: none;
 }
 
+/* home section */
+
 .home {
     background: url(../images/home-bg.jpg) no-repeat;
     background-size: cover;
@@ -135,6 +137,175 @@ section {
     color: var(--light-color);
     padding: 1rem 0;
 }
+
+/* home section ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* hirurgija section ??????????*/
+
+.hirurgija {
+    background: url(../images/stolica.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 500px;
+}
+
+.hirurgija .content {
+    width: 55rem;
+    padding: 2rem;
+}
+
+.hirurgija .content h3{
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+.hirurgija .content p {
+    line-height: 2;
+    font-size: 1.5rem;
+    color: var(--light-color);
+    padding: 1rem 0;
+}
+
+
+/* hirurgija section ends ???????????????? */
+
+
+/* konzervativa section */
+
+
+.konzervativa {
+    background: url(../images/stolica.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 500px;
+}
+
+.konzervativa .content {
+    width: 55rem;
+    padding: 2rem;
+}
+
+.konzervativa .content h3{
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+.konzervativa .content p {
+    line-height: 2;
+    font-size: 1.5rem;
+    color: var(--light-color);
+    padding: 1rem 0;
+}
+
+/* konzervativa section ends */
+
+/* protetika section */
+
+
+.protetika {
+    background: url(../images/stolica.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 500px;
+}
+
+.protetika .content {
+    width: 55rem;
+    padding: 2rem;
+}
+
+.protetika .content h3{
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+
+.protetika .content p {
+    line-height: 2;
+    font-size: 1.5rem;
+    color: var(--light-color);
+    padding: 1rem 0;
+}
+
+/* protetika section ends */
+
+
+
+
+/* ortodoncija section */
+
+
+.ortodoncija {
+    background: url(../images/stolica.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 500px;
+}
+
+.ortodoncija .content {
+    width: 55rem;
+    padding: 2rem;
+}
+
+.ortodoncija .content h3{
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+.ortodoncija .content p {
+    line-height: 2;
+    font-size: 1.5rem;
+    color: var(--light-color);
+    padding: 1rem 0;
+}
+
+/* ortodoncija section ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* about section */
@@ -160,6 +331,10 @@ section {
     color: var(--light-color);
     line-height: 2;
 }
+
+/* .about img {
+    height: 100px;
+} */
 
 /* about section ends */
 
@@ -197,6 +372,7 @@ section {
     color: var(--black);
 }
 
+
 .services .box-container .box p {
     font-size: 1.5rem;
     color: var(--light-color);
@@ -212,6 +388,10 @@ section {
     color: var(--light-color);
     line-height: 2;
   
+}
+
+.services .content h2 {
+    color: var(--blue);
 }
 /* ? */
 
