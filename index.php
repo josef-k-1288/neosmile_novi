@@ -96,7 +96,8 @@
                 <p>Dežurni stomatolog NeoSmile Dr Ljiljana Tomašević. Bol u zubima i ustima najčešće nastaje od kvara zuba,
                     nicanja umnjaka, parodontalnih džepova ili od povreda zuba .
                     Dežurni Stomatolog Neosmile dr Ljiljana Tomašević je tu za vas 24/7 .
-                    <br><hr>
+                    <br>
+                    <hr>
                     INTENZITET BOLA KOJI UPALJEN ŽIVAC MOŽE IZAZVATI JE NAJJACI BOL KOJI LJUDSKI ORGANIZAM MOŽE DA ISTRPI.
                     OBIČNO SE JAVLJA NOĆU.
                     LEKOVI PROTIV BOLOVA NE POMAŽU.
@@ -150,7 +151,7 @@
 
     <!-- process section start -->
 
-    <section class="process">
+    <!-- <section class="process">
         <h1 class="heading">work process</h1>
 
         <div class="box-container container">
@@ -180,9 +181,177 @@
         </div>
 
 
-    </section>
+    </section> -->
 
     <!-- process section ends -->
+
+
+
+
+
+
+
+
+
+    <!-- cene sekcija -->
+
+    <!-- <div class="accordion">
+
+        <ul>
+            <h2>Konzervativna stomatologija</h2>
+            <li>
+                <h3 class="naslov_cene">Bela plomba</h3>
+                <div class="sadrzaj_cene">3000-4000 RSD</div>
+            </li>
+            <li>
+                <h3>Lečenje kanala mašinski</h3>
+                <div>2.400-6.000 RSD</div>
+            </li>
+            <li>
+                <h3>Uklanjanje zubnog kamenca peskiranje I poliranje obe vilice</h3>
+                <div>3.500 RSD</div>
+            </li>
+        </ul>
+
+
+        <ul>
+            <h2>Protetika</h2>
+            <li>
+                <h3>Metalokeramička krunica</h3>
+                <div>10.800 RSD</div>
+            </li>
+            <li>
+                <h3>Bezmetalna cirkonijum krunica</h3>
+                <div>24.000 RSD</div>
+            </li>
+            <li>
+                <h3>Zubna parcijalana ili totalna proteza</h3>
+                <div>24.000 RSD</div>
+            </li>
+            <li>
+                <h3>Zubna skeletirana proteza</h3>
+                <div>42.000 RSD</div>
+            </li>
+        </ul>
+
+        <ul>
+            <h2>Hirurgija i parodontologija</h2>
+            <li>
+                <h3>Rutinsko vadjenje zuba</h3>
+                <div>3.500 RSD</div>
+            </li>
+            <li>
+                <h3>Komplikovano vadjenje zuba</h3>
+                <div>5.000 RSD</div>
+            </li>
+            <li>
+                <h3>Hirursko vadjenje impaktiranog(neizraslog) zuba</h3>
+                <div>12.000 RSD</div>
+            </li>
+            <li>
+                <h3>Apikotomija (resekcija vrha korena)</h3>
+                <div>12.000 RSD</div>
+            </li>
+            <li>
+                <h3>Režanj operacija desni</h3>
+                <div>od 6.000 RSD</div>
+            </li>
+            <li>
+                <h3>Ugradnja implantata</h3>
+                <div>od 54.000 RSD</div>
+            </li>
+            <li>
+                <h3>Resekcija frenuluma laserom</h3>
+                <div>18.000 RSD</div>
+            </li>
+            <li>
+                <h3>Gingivektomija</h3>
+                <div>6.000 RSD</div>
+            </li>
+
+
+        </ul>
+
+        <ul>
+            <h2>Ortodoncija</h2>
+            <li>
+                <h3>Mobilni aparat</h3>
+                <div>30.000 RSD</div>
+            </li>
+            <li>
+                <h3>Fiksna proteza</h3>
+                <div>od 78.000 RSD</div>
+            </li>
+            <li>
+                <h3>Folije za ispravljanje zuba</h3>
+                <div>od 12.000 RSD</div>
+            </li>
+        </ul>
+
+
+        <ul>
+            <h2>Beljenje zuba</h2>
+            <li>
+                <h3>Beljenje avitalnog zuba</h3>
+                <div>3.600 RSD</div>
+            </li>
+            <li>
+                <h3>Beljenje zuba kućno(folije+2 šprica)</h3>
+                <div>18.000 RSD</div>
+            </li>
+            <li>
+                <h3>Beljenje zuba odinacijsko po vilici</h3>
+                <div>7.200 RSD</div>
+            </li>
+            <li>
+                <h3>Kompozitne fasete</h3>
+                <div>6.000 RSD</div>
+            </li>
+            <li>
+                <h3>Keramičke fasete (viniri)</h3>
+                <div>26.400 RSD</div>
+            </li>
+        </ul>
+
+        <ul>
+            <h2>Dečija stomatologija</h2>
+            <li>
+                <h3>Zalivanje fisura</h3>
+                <div>1.200 RSD</div>
+            </li>
+            <li>
+                <h3>Fluorizacija zuba</h3>
+                <div>1.200 RSD</div>
+            </li>
+        </ul>
+
+
+        <ul>
+            <h2>Dežurni stomatolog</h2>
+            <li>
+                <h3>Izlazak van radnog vremena</h3>
+                <div>2.000 RSD</div>
+            </li>
+        </ul>
+
+
+    </div> -->
+
+
+
+    <!-- cene sekcija kraj -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -196,50 +365,55 @@
 
     <section class="reviews" id="reviews">
 
-        <h1 class="heading"> satisfied clients </h1>
+        <h1 class="heading"> DEŽURNI STOMATOLOG NEOSMILE - TIM </h1>
+
+
+        <!-- <div class="box-container1 container">
+
+            <div class="box1">
+                <img src="images/tim/Ljiska_test.jpg" alt="">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+
+                <h3>Ljiljana Tomašević</h3>
+                <span>Dr Stomatologije</span>
+            </div>
+
+        </div> -->
+
+        <br>
 
         <div class="box-container container">
 
             <div class="box">
-                <img src="images/pic-1.png" alt="">
+                <img src="images/tim/Ljiska_test.jpg" alt="">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <h3>john deo</h3>
-                <span>satisfied client</span>
+
+                <h3>Ljiljana Tomašević</h3>
+                <span>Dr Stomatologije</span>
             </div>
 
             <div class="box">
-                <img src="images/pic-2.png" alt="">
+                <img src="images/tim/tim1_test.jpg" alt="">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <h3>john deo</h3>
-                <span>satisfied client</span>
+
+                <h3>Milica Dimitrijević</h3>
+                <span>Viši zubni tehničar</span>
             </div>
 
             <div class="box">
-                <img src="images/pic-3.png" alt="">
+                <img src="images/tim/tim2_test.jpg" alt="">
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                <div class="stars">
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star"></i>
-                    <i class="fas fa-star-half-alt"></i>
-                </div>
-                <h3>john deo</h3>
-                <span>satisfied client</span>
+
+                <h3>Sava Dimitrijević</h3>
+                <span>Viši zubni tehničar</span>
+            </div>
+
+            <div class="box">
+                <img src="images/tim/Yvone_test.jpg" alt="">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+
+                <h3>Yvonne Munene</h3>
+                <span>Dr Stomatologije</span>
             </div>
 
         </div>
@@ -247,6 +421,20 @@
     </section>
 
     <!-- reviews sections ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -268,12 +456,36 @@
 
     <!-- footer section ends -->
 
-
+    
 
 
 
     <!-- custom js file link  -->
     <!-- <script src="js/script.js"></script> -->
+
+
+
+
+
+
+
+
+    <!-- <script>
+        var accordionItems = document.querySelectorAll('.accordion li');
+
+        accordionItems.forEach(function(item) {
+            var title = item.querySelector('.naslov_cene');
+            var content = item.querySelector('.sadrzaj_cene');
+
+            title.addEventListener('click', function() {
+                if (content.style.display === 'none') {
+                    content.style.display = 'block';
+                } else {
+                    content.style.display = 'none';
+                }
+            });
+        });
+    </script> -->
 
 </body>
 
