@@ -195,13 +195,14 @@
 
     <!-- cene sekcija -->
 
-    <!-- <div class="accordion">
+    <div class="accordion">
+        <h1 class="heading">Cene</h1>
 
         <ul>
             <h2>Konzervativna stomatologija</h2>
             <li>
-                <h3 class="naslov_cene">Bela plomba</h3>
-                <div class="sadrzaj_cene">3000-4000 RSD</div>
+                <h3>Bela plomba</h3>
+                <div>3000-4000 RSD</div>
             </li>
             <li>
                 <h3>Lečenje kanala mašinski</h3>
@@ -333,9 +334,9 @@
                 <div>2.000 RSD</div>
             </li>
         </ul>
+        <br><br>
 
-
-    </div> -->
+    </div>
 
 
 
@@ -456,7 +457,7 @@
 
     <!-- footer section ends -->
 
-    
+
 
 
 
@@ -470,12 +471,12 @@
 
 
 
-    <!-- <script>
+    <script>
         var accordionItems = document.querySelectorAll('.accordion li');
 
         accordionItems.forEach(function(item) {
-            var title = item.querySelector('.naslov_cene');
-            var content = item.querySelector('.sadrzaj_cene');
+            var title = item.querySelector('h3');
+            var content = item.querySelector('div');
 
             title.addEventListener('click', function() {
                 if (content.style.display === 'none') {
@@ -485,7 +486,7 @@
                 }
             });
         });
-    </script> -->
+    </script>
 
 </body>
 
