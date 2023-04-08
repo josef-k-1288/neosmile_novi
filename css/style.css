@@ -75,9 +75,63 @@ section {
 
 
 
+
+
+
+
+/* pre header */
+
+/* .pre-header {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    background-color: #f2f2f2;
+    padding: 20px;
+
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-info h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.contact-info span {
+    font-size: 14px;
+    text-align: center;
+}
+
+.contact-info i {
+    font-size: 16px;
+    margin-right: 5px;
+} */
+/* pre header ends */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .header {
     padding: 2rem;
     border-bottom: var(--border);
+    /* margin-top: 100px; */
 }
 
 .header.active{

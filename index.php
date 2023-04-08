@@ -195,7 +195,7 @@
 
     <!-- cene sekcija -->
 
-    <div class="accordion">
+    <div class="accordion" id="cene">
         <h1 class="heading">Cene</h1>
 
         <ul>
@@ -464,7 +464,8 @@
     <!-- custom js file link  -->
     <!-- <script src="js/script.js"></script> -->
 
-
+    <!-- script za accordion link -->
+    <script src="js/accordion-script.js"></script>
 
 
 
@@ -472,20 +473,20 @@
 
 
     <script>
-        var accordionItems = document.querySelectorAll('.accordion li');
+        // var accordionItems = document.querySelectorAll('.accordion li');
 
-        accordionItems.forEach(function(item) {
-            var title = item.querySelector('h3');
-            var content = item.querySelector('div');
+        // accordionItems.forEach(function(item) {
+        //     var title = item.querySelector('h3');
+        //     var content = item.querySelector('div');
 
-            title.addEventListener('click', function() {
-                if (content.style.display === 'none') {
-                    content.style.display = 'block';
-                } else {
-                    content.style.display = 'none';
-                }
-            });
-        });
+        //     title.addEventListener('click', function() {
+        //         if (content.style.display === 'none') {
+        //             content.style.display = 'block';
+        //         } else {
+        //             content.style.display = 'none';
+        //         }
+        //     });
+        // });
     </script>
 
 </body>

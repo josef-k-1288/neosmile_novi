@@ -33,6 +33,7 @@
                      <a href="index.php">Početna</a>
                      <!-- <a href="#about">about</a> -->
                      <a href="services.php">Usluge</a>
+                     <a href="#cene">Cene</a>
                      <!-- <a href="#reviews">reviews</a> -->
                      <a href="questions.php">Pitanja</a>
                      <a href="contact.php">Kontakt</a>
