@@ -776,6 +776,11 @@ section {
         padding: 5rem 2rem;
     }
 
+    .pre-header {
+        display: none;
+    }
+    
+
 }
 
 
@@ -824,6 +829,10 @@ section {
 
     .home .content {
         width: auto;
+    }
+
+    .pre-header {
+        display: none;
     }
     
 }
