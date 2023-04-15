@@ -20,7 +20,10 @@
 
 <body>
 
+    
+
     <!-- header section starts  -->
+
 
     <?php
     require('header.php');

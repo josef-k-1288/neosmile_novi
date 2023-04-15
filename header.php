@@ -20,11 +20,26 @@
 
  <body>
 
+     <div class="pre-header">
+         <div class="pre-header__container">
+             <span class="contact-info">Telefon: +381 69 2717 777</span>
+             <span class="contact-info">Radno vreme: Pon - Pet: 11:00 - 19:00, Vikendom: 11:00 - 17:00</span>
+             <span class="contact-info">Adresa: Vrtlarska 7b, 11 080, Zemun</span>
+         </div>
+     </div>
+     <div class="container">
+         <div class="row align-items-center justify-content-between">
+         </div>
+     </div>
+
+
      <header class="header fixed-top">
 
          <div class="container">
 
              <div class="row align-items-center justify-content-between">
+
+
 
                  <!-- <a href="index.php" class="logo">dental<span>Care.</span></a> -->
                  <img src="images/logo.png" alt="logo" width="75" height="55">
