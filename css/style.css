@@ -779,6 +779,10 @@ section {
     .pre-header {
         display: none;
     }
+
+    .header {
+        margin-top: 0;
+    }
     
 
 }
