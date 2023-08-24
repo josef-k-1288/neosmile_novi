@@ -15,22 +15,23 @@
 
      <!-- custom css file link  -->
      <link rel="stylesheet" href="css/style.css">
+     
 
  </head>
 
  <body>
 
- <div class="pre-header">
-  <div class="pre-header__container">
-    <span class="contact-info"><i class="fas fa-phone-alt"></i> Telefon: +381 69 2717 777</span>
-    <span class="contact-info"><i class="far fa-clock"></i> Radno vreme: Pon - Pet: 11:00 - 19:00, Vikendom: 11:00 - 17:00</span>
-    <span class="contact-info"><i class="fas fa-map-marker-alt"></i> Adresa: Vrtlarska 7b, 11 080, Zemun</span>
-  </div>
-</div>
-<div class="container">
-  <div class="row align-items-center justify-content-between">
-  </div>
-</div>
+     <div class="pre-header">
+         <div class="pre-header__container">
+             <span class="contact-info"><i class="fas fa-phone-alt"></i> Telefon: +381 69 2717 777</span>
+             <span class="contact-info"><i class="far fa-clock"></i> Radno vreme: Pon - Pet: 11:00 - 19:00, Vikendom: 11:00 - 17:00</span>
+             <span class="contact-info"><i class="fas fa-map-marker-alt"></i> Adresa: Vrtlarska 7b, 11 080, Zemun</span>
+         </div>
+     </div>
+     <div class="container">
+         <div class="row align-items-center justify-content-between">
+         </div>
+     </div>
 
 
      <header class="header fixed-top">
@@ -46,15 +47,14 @@
 
                  <nav class="nav">
                      <a href="index.php">Početna</a>
-                     <!-- <a href="#about">about</a> -->
-                     <a href="services.php">Usluge</a>
+                     <a href="#services">Usluge</a>
                      <a href="#cene">Cene</a>
-                     <!-- <a href="#reviews">reviews</a> -->
+                     <a href="galerija.php">galerija</a>
                      <a href="questions.php">Pitanja</a>
                      <a href="contact.php">Kontakt</a>
                  </nav>
 
-                 <a href="contact.php" class="link-btn">make appointment</a>
+                 <a href="contact.php" class="link-btn">Kontakt</a>
 
                  <div id="menu-btn" class="fas fa-bars"></div>
 
@@ -63,10 +63,36 @@
          </div>
 
 
-         <!-- custom js file link  -->
-         <script src="js/script.js"></script>
 
      </header>
+
+     <script>
+         let menu = document.querySelector('#menu-btn');
+         let navbar = document.querySelector('.header .nav');
+         let header = document.querySelector('.header');
+
+
+         menu.onclick = () => {
+             menu.classList.toggle('fa-times');
+             navbar.classList.toggle('active');
+         }
+
+         window.onscroll = () => {
+             menu.classList.remove('fa-times');
+             navbar.classList.remove('active');
+
+             if (window.scrollY > 0) {
+                 header.classList.add('active');
+             } else {
+                 header.classList.remove('active');
+             }
+
+         }
+     </script>
+
+
+     <!-- custom js file link  -->
+     <!-- <script src="js/script.js"></script> -->
 
 
  </body>

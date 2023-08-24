@@ -20,7 +20,7 @@
 
 <body>
 
-    
+
 
     <!-- header section starts  -->
 
@@ -37,9 +37,10 @@
         <div class="container">
             <div class="row min-vh-100 align-items-center">
                 <div class="content text-center text-md-left">
-                    <h3>NeoSmile</h3>
-                    <p>Lorem ipsum dolor sit, sequi aliquid vel asperiores non similique necessitatibus! Ab, nostrum amet.</p>
-                    <a href="contact.php" class="link-btn">make appointment</a>
+                    <h3 class="capitalize" id="naslov-baner">Neosmile</h3>
+                    
+                    <!-- <p>Lorem ipsum dolor sit, sequi aliquid vel asperiores non similique necessitatibus! Ab, nostrum amet.</p> -->
+                    <!-- <a href="contact.php" class="link-btn">Kontakt</a> -->
                 </div>
             </div>
         </div>
@@ -66,9 +67,9 @@
 
                 <div class="col-md-6 content">
                     <span>O nama</span>
-                    <h3>True Healthcare For Your Family</h3>
-                    <p>Dežurni stomatolog u srcu Zemuna, preko puta Zemunskog parka.
-                        Naš tim predvodi dr Ljiljana Tomašević, stomatolog sa 25 godina radnog iskustva.
+                    <!-- <h3>True Healthcare For Your Family</h3> -->
+                    <p class="capitalize">Dežurni stomatolog u srcu Zemuna, preko puta Zemunskog parka.
+                        Naš tim predvodi dr <b id="ime">Ljiljana Tomašević</b>, stomatolog sa 25 godina radnog iskustva.
                         U prijatnom i lepo uređenom prostoru sačekaće Vas stručnjaci koje je spojila ljubav prema poslu.
                         Mi smo spoj znanja, iskustva, ljubaznosti i posvećenosti.
                         Topao doček, dobra analiza Vašeg problema, kao i uvažavanje Vaših zahteva i želja je nešto na šta možete računati.
@@ -202,7 +203,7 @@
         <h1 class="heading">Cene</h1>
 
         <ul>
-            <h2>Konzervativna stomatologija</h2>
+            <h2 class="capitalize">Konzervativna stomatologija</h2>
             <li>
                 <h3>Bela plomba</h3>
                 <div>3000-4000 RSD</div>
@@ -239,7 +240,7 @@
         </ul>
 
         <ul>
-            <h2>Hirurgija i parodontologija</h2>
+            <h2 class="capitalize">Hirurgija i parodontologija</h2>
             <li>
                 <h3>Rutinsko vadjenje zuba</h3>
                 <div>3.500 RSD</div>
@@ -294,7 +295,7 @@
 
 
         <ul>
-            <h2>Beljenje zuba</h2>
+            <h2 class="capitalize">Beljenje zuba</h2>
             <li>
                 <h3>Beljenje avitalnog zuba</h3>
                 <div>3.600 RSD</div>
@@ -318,7 +319,7 @@
         </ul>
 
         <ul>
-            <h2>Dečija stomatologija</h2>
+            <h2 class="capitalize">Dečija stomatologija</h2>
             <li>
                 <h3>Zalivanje fisura</h3>
                 <div>1.200 RSD</div>
@@ -331,7 +332,7 @@
 
 
         <ul>
-            <h2>Dežurni stomatolog</h2>
+            <h2 class="capitalize">Dežurni stomatolog</h2>
             <li>
                 <h3>Izlazak van radnog vremena</h3>
                 <div>2.000 RSD</div>
@@ -348,6 +349,18 @@
 
 
 
+
+
+
+
+
+
+
+    <!-- galerija sekcija -->
+
+
+
+    <!-- galerija sekcija kraj -->
 
 
 
@@ -390,34 +403,34 @@
 
             <div class="box">
                 <img src="images/tim/Ljiska_test.jpg" alt="">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                <br><br>
 
                 <h3>Ljiljana Tomašević</h3>
-                <span>Dr Stomatologije</span>
+                <span class="capitalize">Dr Stomatologije</span>
             </div>
 
             <div class="box">
                 <img src="images/tim/tim1_test.jpg" alt="">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                <br><br>
 
                 <h3>Milica Dimitrijević</h3>
-                <span>Viši zubni tehničar</span>
+                <span class="capitalize">Viši zubni tehničar</span>
             </div>
 
             <div class="box">
                 <img src="images/tim/tim2_test.jpg" alt="">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                <br><br>
 
                 <h3>Sava Dimitrijević</h3>
-                <span>Viši zubni tehničar</span>
+                <span class="capitalize">Viši zubni tehničar</span>
             </div>
 
             <div class="box">
                 <img src="images/tim/Yvone_test.jpg" alt="">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                <br><br>
 
                 <h3>Yvonne Munene</h3>
-                <span>Dr Stomatologije</span>
+                <span class="capitalize">Dr Stomatologije</span>
             </div>
 
         </div>

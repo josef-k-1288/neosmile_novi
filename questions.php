@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row min-vh-100 align-items-center">
                 <div class="content text-center text-md-left">
-                    <h3>Pitanja i odgovori</h3>
+                    <h3 class="capitalize">Pitanja i odgovori</h3>
                     <p>Lorem ipsum dolor sit, sequi aliquid vel asperiores non similique necessitatibus! Ab, nostrum amet.</p>
                     <!-- <a href="#contact" class="link-btn">make appointment</a> -->
                 </div>

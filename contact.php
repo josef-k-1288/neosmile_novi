@@ -87,7 +87,17 @@
      </section>
 
      <!-- contact section ends -->
+     <p class="mapa"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1414.5539179994519!2d20.40714957227955!3d44.839737223863075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a65b1fcd45ad5%3A0x91a8d8a4586e280!2sStomatolo%C5%A1ka%20ordinacija%20NeoSmile!5e0!3m2!1ssr!2srs!4v1690284564737!5m2!1ssr!2srs" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></p>
 
+     <style>
+         .mapa {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* height: 100vh; */
+            margin: 0;
+        }
+     </style>
 
      <?php include 'footer.php' ?>
 
